@@ -1,0 +1,80 @@
+# חיה ליכט — Generative Engine Optimization Map
+
+> צור דף נחיתה לעסק לרהיטים
+
+---
+
+## Pages
+
+### בית
+https://-c9139ce4.zappy5.app
+מחפשים ריהוט גן במבצע? חיה ליכט מביאה לכם קולקציית ריהוט חוץ מעוצבת במחירים שווים לכל כיס. היכנסו עכשיו לקטלוג הדיגיטלי והתחילו לעצב את הגינה שחלמתם עליה.
+
+### גישת עיצוב
+https://-c9139ce4.zappy5.app/design-approach
+איך הופכים חלל לבית? גישת העיצוב של חיה ליכט משלבת אסתטיקה, נוחות וחדשנות. קראו על הפילוסופיה שמאחורי סטים של ריהוט לחדרי ילדים ופתרונות יצירתיים לכל פינה.
+
+### אודות
+https://-c9139ce4.zappy5.app/about
+מסורת משפחתית או חזון פורץ דרך? באודות חיה ליכט תגלו את התשוקה לריהוט איכותי, כולל מבצעי black friday furniture deals ששינינו את כללי המשחק. הצטרפו למסע שלנו.
+
+### צור קשר
+https://-c9139ce4.zappy5.app/contact
+מוכנים להפוך את הבית לחלום? צרו קשר עם חיה ליכט עוד היום! בין אם אתם מתלבטים לגבי pottery barn outdoor furniture או זקוקים לייעוץ אישי, הצוות שלנו כאן בשבילכם. השאירו פרטים ונחזור בהקדם.
+
+### Products
+https://-c9139ce4.zappy5.app/products
+המוצרים שלנו - חיה ליכט
+
+### Product Detail
+https://-c9139ce4.zappy5.app/product/:slug
+פרטי המוצר - חיה ליכט
+
+### Category
+https://-c9139ce4.zappy5.app/category/:slug
+מוצרים - חיה ליכט
+
+## Legal & Policy
+
+### Privacy Policy
+https://-c9139ce4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-c9139ce4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-c9139ce4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חיה ליכט
+צור דף נחיתה לעסק לרהיטים
+
+## Target Audience
+- מקצוענים צעירים בעיר
+- בעלי בתים חדשים
+- זוגות חובבי עיצוב
+
+## Industry
+Furniture
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-c9139ce4.zappy5.app/sitemap.xml
+- Robots: https://-c9139ce4.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-c9139ce4.zappy5.app/llms-full.txt
+- Products (JSON): https://-c9139ce4.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-c9139ce4.zappy5.app/product-feed.xml
